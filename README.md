@@ -1,4 +1,4 @@
-# Supplement Sales Performance Insights – Python EDA Project
+# 🏋️ Supplement Sales Performance Insights – Python EDA Project
 
 📊 Data analytics project analyzing global supplement sales, revenue trends, product categories, platforms, and return rates  
 ⚡ Built an end-to-end Exploratory Data Analysis (EDA) using Python and Jupyter Notebook to generate actionable business insights
@@ -50,4 +50,43 @@
 ## 📈 Key Features
 
 📌 Time-series analysis of revenue (daily & monthly)  
-📌 Category and produc
+📌 Category and product performance comparison  
+📌 Platform & location-based revenue insights  
+📌 Return rate and profitability evaluation  
+📌 Correlation heatmap for sales variables  
+📌 Interactive visualizations for trend analysis  
+
+---
+
+## 📉 Major Insights
+
+🔹 Vitamins and Minerals generate the highest revenue  
+🔹 Amazon and iHerb dominate platform-wise sales  
+🔹 Canada and UK are top-performing locations  
+🔹 Discounts show minimal direct impact on revenue  
+🔹 Product returns significantly affect net revenue  
+🔹 Sales show seasonal patterns over time  
+
+---
+
+## 📌 Recommendations
+
+✔ Focus on high-performing categories for growth  
+✔ Reduce return rates through quality and logistics improvements  
+✔ Optimize pricing instead of heavy discounting  
+✔ Strengthen presence on high-performing platforms  
+✔ Use seasonal trends for targeted promotions  
+
+---
+
+## 🚀 Outcomes
+
+✨ Delivered a complete EDA project using Python  
+📊 Improved visibility into sales and profitability  
+🔍 Generated insights for strategic decision-making  
+📈 Created a portfolio-ready data analytics project  
+
+---
+
+## 📂 Project Structure
+
