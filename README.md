@@ -1,4 +1,4 @@
-# 🏋️ Supplement Sales Performance Insights – Python EDA Project
+# Supplement Sales Performance Insights – Python EDA Project
 
 📊 Data analytics project analyzing global supplement sales, revenue trends, product categories, platforms, and return rates  
 ⚡ Built an end-to-end Exploratory Data Analysis (EDA) using Python and Jupyter Notebook to generate actionable business insights
